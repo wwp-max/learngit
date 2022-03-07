@@ -1,5 +1,4 @@
 大范围发我个交换机无法
-肚肚
 杨一帆
 Git has a mutable index called stage.
 Git tracks changes.
