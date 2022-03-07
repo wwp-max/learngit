@@ -2,3 +2,4 @@
 肚肚
 杨一帆
 Git has a mutable index called stage.
+Git tracks changes.
